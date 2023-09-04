@@ -1,0 +1,110 @@
+{
+  "resumeTitle": {
+    "title": "Hitee"
+  },
+
+  "information": {
+    "name": "김인철",
+    "contact": [
+      { "id": 0, "name": "Email", "href": "laby8239@gmail.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/Hitee8239" },
+      { "id": 2, "name": "Blog", "href": "https://velog.io/@eee8239" }
+    ]
+  },
+
+  "workExperience": [
+    {
+      "id": 0,
+      "name": "김인철",
+      "position": "Front-end Engineer   and   Cloud architecture Engineer",
+      "period": ["2023. 03", "ing"]
+    } 
+  ],
+
+  "project": [
+    {
+      "id": 0,
+      "name": "Forest Camp",
+      "description": "Kibwa AWS교육 프로그램 (중탄소년단) + CloudMate 멘토링 프로젝트입니다.",
+      "webUrl": "http://awsforestcamp.kro.kr/",
+      "repoUrl": "https://github.com/AWSForestCamp/forestcamp",
+      "isTeam": true,
+      "period": ["2023. 08", "2023. 10"],
+      "stack": ["React.js", "JavaScript", "css-module", "python" ,"AWS EC2" , "Jira", "Docker","Figma"]
+    },
+    {
+      "id": 1,
+      "name": "재미로 보는 MBTI 테스트 ",
+      "description": "심리학을 전공한 전공생의 재미로 보는 MBTI테스트 ",
+      "webUrl": "https://chimerical-salamander-85c145.netlify.app/",
+      "repoUrl": "https://github.com/Hitee8239/MBTI",
+      "isTeam": false,
+      "period": ["2022. 12", "2022. 12"],
+      "stack": ["JavaScript", "HTML/CSS", "netlify"]
+    },
+    {
+      "id": 2,
+      "name": "Vue.js를이용한 나만의 홈페이지 만들기 ",
+      "description": "심리학을 전공한 전공생의 재미로 보는 MBTI테스트 ",
+      "repoUrl": "https://github.com/Hitee8239/Vuue",
+      "isTeam": false,
+      "period": ["2022. 10", "2022. 12"],
+      "stack": ["JavaScript", "vue.js", "mysql","OracleCloud","vuetify"]
+    }
+  ],
+
+  "activity": [
+    {
+      "id": 0,
+      "name": "SW CAMP Class monitor",
+      "period": ["2023. 03", "2023. 10"],
+      "description": "SW CAMP에서 Class monitor활동을 하며 Class의 의견을 조율하며 협회와의 커뮤니케이션에서 대표로 이야기하고 소통하는 역활을 하였습니다."
+    }
+  ],
+
+  "education": [
+    {
+      "id":0,
+      "name":"우석대학교 상담심리학과",
+      "period":["2017. 03", "2023. 08"],
+      "description":"우석대학교 상담심리학과에서 상담심리를 전공하여 학위를 취득하였습니다."
+    },
+    {
+      "id": 1,
+      "name": "KDT java기반 풀스택 개발자 양성과정 ",
+      "period": ["2022. 07", "2022. 12"],
+      "description": "개발자로 직무변환을 위한 내일배움카드로 full stack 개발자 교육을 수료하였습니다."
+    },
+    {
+      "id": 2,
+      "name": "AWS 기반 데이터분석 처리 고급 SW클라우드 개발자 양성과정",
+      "period": ["2023. 03", "2023. 10"],
+      "description": "과기부 사업의 SW개발자 교육입니다. 첫번쨰 교육을 듣고 클라우드와 백엔드적 지식이 부족함을 느끼고 채우기 위하여 교육을 들었습니다"
+    }
+  ],
+
+  "certificate": [
+    {
+      "id": 0,
+      "name": "AWS Certificate Practicernal",
+      "date": "2023. 08. 29",
+      "organizer": "Amazon Web Service "
+    },
+    {
+      "id": 1,
+      "name": "AI-900:Microsoft Azure AI Fundamentals",
+      "date": "2023. 08. 29",
+      "organizer": "Micro-Soft"
+    }
+  ],
+
+  "award": [
+    {
+      "id": 0,
+      "name": "Kibwa SW CAMP 우수교육생",
+      "date": "2023. 06. 05",
+      "organizer": "Kibwa (사)IT여성기업인협회",
+      "description": "과기부 사업 SW캠프에서 모범적인 모습을 보여줘서 우수교육생으로 선정되었습니다."
+    }
+  ]
+}
