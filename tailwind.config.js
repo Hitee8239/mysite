@@ -8,7 +8,6 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
-      // NOTE: 본 템플릿은 대부분이 모노톤으로 이루어져 있습니다. primary 컬러만 수정하여 사용하시는 것을 권장드립니다.
       colors: {
         GRAY_LIGHT: "#f1f3f5",
         GRAY: "#adb5bd",

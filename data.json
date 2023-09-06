@@ -45,7 +45,7 @@
     {
       "id": 2,
       "name": "Vue.js를이용한 나만의 홈페이지 만들기 ",
-      "description": "심리학을 전공한 전공생의 재미로 보는 MBTI테스트 ",
+      "description": "Vue.js로 만든 SSR페이지  ",
       "repoUrl": "https://github.com/Hitee8239/Vuue",
       "isTeam": false,
       "period": ["2022. 10", "2022. 12"],
