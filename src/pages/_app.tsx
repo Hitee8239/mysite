@@ -9,11 +9,11 @@ import type { AppProps } from "next/app";
 const DEFAULT_SEO = {
   title: "김인철 | junior Dev",
   description: "안녕하세요, 주니어 개발자 김인철입니다.",
-  canonical: "https://www.naver.com/",
+  canonical: "hhttps://my-site-hitee8239.vercel.app/",
   openGraph: {
     type: "website",
     locale: "ko_KR",
-    url: "https://www.naver.com/",
+    url: "https://my-site-hitee8239.vercel.app/",
     title: "김인철 | junior Dev",
     site_name: "김인철 | junior Dev",
     images: [
